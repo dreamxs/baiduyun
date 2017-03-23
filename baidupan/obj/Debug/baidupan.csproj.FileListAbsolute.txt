@@ -1,0 +1,10 @@
+M:\Csharp\baidupan\baidupan\bin\Debug\baidupan.exe.config
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.csprojResolveAssemblyReference.cache
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.Form1.resources
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.Properties.Resources.resources
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.csproj.GenerateResource.Cache
+M:\Csharp\baidupan\baidupan\bin\Debug\baidupan.exe
+M:\Csharp\baidupan\baidupan\bin\Debug\baidupan.pdb
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.exe
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.pdb
+M:\Csharp\baidupan\baidupan\obj\Debug\baidupan.Form2.resources
